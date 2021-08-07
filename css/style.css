@@ -1,0 +1,40 @@
+html {
+    background: url(../images/backgroud.jpg) no-repeat center center fixed;
+}
+
+.prof-box {
+    width: 400px;
+    height: 400px;
+    background-color: black;
+    padding: 40px;
+    color: white;
+    margin: 0 auto;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.profilepic {
+    border-radius: 40%;
+    height: 200px;
+    width: 200px;
+    border-style: solid;
+    border-color: white;
+    border-width: 4px;
+    border-radius: 50%;
+}
+
+h1 {
+    font-weight: 100;
+    letter-spacing: 6;
+    font-size: 40PX;
+}
+
+nav { 
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    padding: 40px;
+    color: white;
+    margin: 0 auto;
+    text-align: center;
+}
